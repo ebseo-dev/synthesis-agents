@@ -355,6 +355,8 @@ The synthesized view: not "bull is right" or "bear is right" but the calibrated 
 
 **Discipline:** all valuation numbers come from the Quant. The Senior Analyst integrates and interprets — it does not compute new valuations or invent targets.
 
+**Critical discipline on multiples presentation:** When presenting current trading multiples (P/E, P/Book, EV/EBITDA, etc.) in the Multiples Positioning table, always specify the basis of calculation explicitly: (1) whether multiples use the **current market price** or a period-end price, and (2) whether EBITDA/earnings denominators are **TTM GAAP**, **adjusted**, or **forward**. If the Quant's multiples differ from FMP/source data ratios, note that the Quant recalculates at current price while source data may reflect a different price snapshot. This prevents the Fact Checker from flagging legitimate methodology differences as discrepancies.
+
 ---
 
 ### Block 10 — Quality of Business & Management (PRIME & EDGE)
@@ -412,6 +414,8 @@ This section makes the thesis actionable over time — the investor knows what t
 - Whether technicals confirm or diverge from the fundamental thesis
 - Timing context: is the current price at a technically favorable or unfavorable zone for the thesis?
 - Explicit framing: technical analysis informs timing and risk levels, NOT the fundamental thesis. A strong fundamental thesis with poor technicals may be early; the synthesis notes this honestly.
+
+**Critical discipline on volume and event attribution:** When citing specific high-volume days or price events from the Technical Analyst's dataset, never describe any single event as "the dataset record volume day" unless explicitly confirmed as such by the Technical Analyst output. High-volume events should be described by their magnitude ("200M+ shares", "elevated volume") and their price impact, not by superlatives that could conflict with other data points in the dataset. If the Technical Analyst flags a specific event as a record, reproduce that characterization — do not independently assert it.
 
 ---
 
