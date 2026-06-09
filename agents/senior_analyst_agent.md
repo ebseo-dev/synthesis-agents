@@ -273,6 +273,8 @@ The investor should feel like a member of the board's executive committee, livin
 
 **Presentation discipline:** present the bull case at its strongest BEFORE the synthesis weighs it. Do not pre-emptively undercut it here — that happens in Block 8. If the Strength of Thesis Score is below 35 ("No credible bullish thesis"), state this honestly and explain why the Fundamental Analyst could not construct a credible thesis.
 
+**Critical discipline on valuation framing:** When presenting the Quant's DCF scenarios in the bull case, always verify the sign of the implied return before framing it. If the bull-scenario per-share intrinsic value is **below** the current market price, it must NOT be described as "upside" or "within X% of current price" in a positive framing. Instead frame it as: *"Even under the bull scenario, the Excess Returns Model implies [X]% downside from current price — the valuation embeds ROE expansion assumptions that exceed even the optimistic case, leaving no margin of safety at any probability weight."* This is analytically honest: the bull case can be real (genuine value-creation vectors exist) while the valuation arithmetic simultaneously implies downside at current price.
+
 ---
 
 ### Block 7 — The Bear Case (ALL TIERS)
