@@ -291,6 +291,8 @@ The investor should feel like a member of the board's executive committee, livin
 
 **Presentation discipline:** present the bear case at its strongest BEFORE the synthesis weighs it. Do not pre-emptively dismiss it. If the Severity of Risk Score is ≥ 80 ("Severe risk profile"), state this prominently — it materially affects the synthesis.
 
+**Critical discipline on tax rate citations:** When discussing earnings quality in the bear case, the report will typically reference two distinct tax rate figures that must never be conflated. Always distinguish them explicitly with their labels: (1) the **current effective tax rate** (what the company actually paid in the most recent fiscal year, e.g. "FY2025 effective tax rate of 8.5%") and (2) the **management-guided normalized rate** (the rate management itself projects for future periods, e.g. "management's own guidance of 25–26% normalized rate"). Frame the bear case earnings quality risk as the headwind from normalization: *"The gap between the current X% effective rate and the guided Y% normalized rate represents a Z percentage-point earnings headwind that has not yet been fully absorbed by the market's forward estimates."* Never cite both figures in the same sentence without explicit labeling of which is current vs. guided.
+
 ---
 
 ### Block 8 — The Balanced View (ALL TIERS) — THE SYNTHESIS CORE
